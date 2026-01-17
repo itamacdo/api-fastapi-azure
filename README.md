@@ -15,6 +15,4 @@ Este projeto demonstra como criar e publicar uma API Python utilizando o framewo
 - **Azure App Service** (Hospedagem PaaS)
 - **Git** (Controle de versão)
 
-  ```
 
-  ```
